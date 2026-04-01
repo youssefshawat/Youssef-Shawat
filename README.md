@@ -8,7 +8,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class Data Engineer:
 
     def __init__(self):
         self.name = "Youssef Shawat"
